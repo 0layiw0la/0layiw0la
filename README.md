@@ -22,6 +22,8 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img width="50px" height="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
  <img width="50px" height="50px" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> 
 
+  ### Most used languages
+  [![Top Langs!](https://github-readme-stats.vercel.app/api/top-langs/?username=0layiw0la)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 0layiw0la/0layiw0la is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
