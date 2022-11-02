@@ -4,7 +4,7 @@
   Welcome to my Github page! I am Olayiwola and I am currently finishing my Computer Engineering Master degree at the university of Lagos.
   i have passion for frontend development and i'm currently trying to grow my skills.
 <p align="center">
-   <img align="center" alt="img" src="https://media.istockphoto.com/id/1219473617/vector/young-male-character-writing-code-on-a-desktop-computer-working-from-home-millennials-at-work.jpg?s=612x612&w=0&k=20&c=9KrYfX8M5lFqpUN2y5Pklac_XebWqnI0bmDkMB6NLhU=" width="80%" height="300px" >
+   <img align="center" alt="img" src="https://media.istockphoto.com/id/1219473617/vector/young-male-character-writing-code-on-a-desktop-computer-working-from-home-millennials-at-work.jpg?s=612x612&w=0&k=20&c=9KrYfX8M5lFqpUN2y5Pklac_XebWqnI0bmDkMB6NLhU=" width="80%" height="200px" >
   </p>
 
 * 🌍 Im based in Nigeria </br>
