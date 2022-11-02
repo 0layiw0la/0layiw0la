@@ -24,6 +24,8 @@
 
   ### Most used languages
   [![Top Langs!](https://github-readme-stats.vercel.app/api/top-langs/?username=0layiw0la)](https://github.com/anuraghazra/github-readme-stats)
+### social
+<a href="https://www.twitter.com/la_y1w0la" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <!---
 0layiw0la/0layiw0la is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
