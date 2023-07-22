@@ -1,7 +1,7 @@
 <h1 align="left">
   Hi there 👋</h1>
   <p>
-I am Olayiwola, a passionate individual who loves telling stories through data. My interests lie in the world of data science, where I enjoy exploring information and extracting valuable insights. I am proficient in using Python, Excel, and SQL, I enjoy the analytical process. My curiosity drives me to delve deeper into datasets, seeking meaningful patterns and trends.
+I am Olayiwola, a Data Analyst who loves telling stories through data. My interests lie in the world of data science, where I enjoy exploring information and extracting valuable insights. I am proficient in using Python, Excel, and SQL, I enjoy the analytical process. My curiosity drives me to delve deeper into datasets, seeking meaningful patterns and trends.
 </p>
 
 * 🌍 Im based in Nigeria </br>
