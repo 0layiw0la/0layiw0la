@@ -16,3 +16,4 @@ I am Olayiwola, a Data Analyst who loves telling stories through data. My intere
 0layiw0la/0layiw0la is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![MY GITHUB STATS](https://github-readme-stats.vercel.app/api?username=0layiw0la)](https://github.com/anuraghazra/github-readme-stats)
