@@ -5,7 +5,7 @@ I am Olayiwola, a Data Scientist who loves telling stories through data. My inte
 </p>
 
 * 🌍 Im based in Nigeria </br>
-* 👀 I’m interested in Data Science</br>
+* 👀 Data Science</br>
 * 🤝 I am open to collaborating on data science projects and eager to join forces in exploring the vast possibilities this field has to offer</br>
 * ✉️ You can reach me at abdulrahimibrahimolayiwola@gmail.com</br>
 
