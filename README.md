@@ -98,9 +98,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0layiw0la&theme=algolia" alt="0layiw0la's GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0layiw0la&layout=compact&theme=algolia" alt="0layiw0la's Top Languages" />
-</p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
