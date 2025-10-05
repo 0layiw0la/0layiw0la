@@ -7,7 +7,6 @@
 </div>
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/fe/74/e0/fe74e0ea033ff87c62c1c16266c47bee.jpg">
-- 🔭 Currently exploring **LangChain for RAG Applications**.
   
 - 👨‍💻 Check out my projects [here](https://github.com/0layiw0la?tab=repositories)
 
